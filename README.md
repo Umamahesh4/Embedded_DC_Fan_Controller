@@ -5,7 +5,7 @@ Overview
 The Embedded DC Fan Controller project leverages the STM32F103C8 microcontroller to control a DC fan based on temperature readings. An onboard ADC reads temperature data, and depending on these values, the fan and LED are activated. The system includes an LCD display connected through I2C for real-time monitoring of temperature readings.
 
 There are two switches:
-1. one for controlling the fan irrespective of temperature data
+1. one for controlling the fan irrespective of temperature data ( using the interrupt) 
 2. to shutdown the entire power supply( emergency shutdown)
 
 Features
@@ -20,3 +20,6 @@ UL2003 Register (for fan control)
 DC Fan
 LED (for fan status indication)
 Potentiometer (to adjust threshold temperature)
+
+
+![Circuit Diagram](embedded2.png)
