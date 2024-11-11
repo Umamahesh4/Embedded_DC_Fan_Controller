@@ -22,4 +22,7 @@ LED (for fan status indication)
 Potentiometer (to adjust threshold temperature)
 
 
-![Circuit Diagram](embedded3)
+
+![Circuit Diagram1](embedded3)
+------------------------------------------------------------------------------------
+![Circuit Diagram1](embedded2)
