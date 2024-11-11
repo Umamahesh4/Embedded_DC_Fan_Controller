@@ -21,8 +21,12 @@ DC Fan
 LED (for fan status indication)
 Potentiometer (to adjust threshold temperature)
 
+Video Demonstration:
+https://youtu.be/SF2_DUOIaxo
 
 
 ![Circuit Diagram1](embedded3)
 ------------------------------------------------------------------------------------
 ![Circuit Diagram1](embedded2)
+
+
